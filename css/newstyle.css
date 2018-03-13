@@ -1,0 +1,28 @@
+head {
+  text-align: center;
+  color: #FFA500;
+}
+body {
+  text-align: left;
+}
+h1 {
+  font-family: cursive;
+  font-height: 12px;
+  color: #005aff;
+}
+
+h2 {
+  font-family: cursive;
+  font-height: 10px;
+  color: #00c78c;
+}
+h4 {
+  font-family: cursive;
+  font-height: 9px;
+  color: #5cacee;
+}
+
+p {
+  color: #003333;
+  font-size: 7.5px;
+}
