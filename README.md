@@ -2,7 +2,7 @@
 
 #### _A very basic website to launch my very first assignment, 13 March 2018_
 
-#### By _**Kristi Hwang & Jimmy McNamara**_
+#### By _**David Tumpowsky**_
 
 ## Description
 
@@ -21,7 +21,7 @@ _None yet detected_
 
 ## Support and contact details
 
-_Contact Kristi at krsy3ii@yahoo.com_
+_Contact tumpowskydavid@gmail.com_
 
 ## Technologies Used
 
